@@ -2,9 +2,9 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    SERVICEID: 'service_ltwhh4u',
-    TEMPLATEID: 'template_8prbjpn',
-    USERID: 'DEM0Rp56kWGfbGpyE',
+    SERVICEID: 'YOUR SERVICE ID HERE',
+    TEMPLATEID: 'YOUR TEMPLATE ID HERE',
+    USERID: 'YOUR USER ID HERE',
   },
 };
 

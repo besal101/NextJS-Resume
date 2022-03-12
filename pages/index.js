@@ -10,10 +10,12 @@ import Portfolio from '../components/Portfolio';
 import Services from '../components/Services';
 import About from '../components/About';
 import Testimonial from '../components/Testimonial';
+import SEO from '../components/seo';
 
 export default function Home() {
   return (
     <>
+      <SEO />
       <Header />
       <Nav />
       <About />
